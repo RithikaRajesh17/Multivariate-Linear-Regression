@@ -29,7 +29,7 @@ Use the trained model to make predictions using `regr.predict()` with the given 
 Display the predicted output.
 
 ## Program:
-```
+```python
 # Developed by: Mohamed Riyaz Ahamed
 # Reg no: 24900085
 
