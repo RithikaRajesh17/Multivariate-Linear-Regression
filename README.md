@@ -30,8 +30,6 @@ Display the predicted output.
 
 ## Program:
 ```python
-# Developed by: Mohamed Riyaz Ahamed
-# Reg no: 24900085
 
 import pandas as pd
 from sklearn import linear_model
@@ -50,7 +48,7 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/d5abcd48-e4c3-456d-bbb3-5775735aaa22)
+![image](https://github.com/user-attachments/assets/e8e7f4cd-4467-4f24-80e9-8c5de7beae3a)
 
 
 ## Result
